@@ -90,3 +90,16 @@ header#main-header nav ul li img {
   width: 90px;
   font-size: 14px;
 }
+
+/* estilos banner */
+.banner {
+  height: 380px;
+  width: 100%;
+  background-color: #3bb9e3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 30px;
+}
+
